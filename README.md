@@ -97,7 +97,7 @@ English | 中文
 1. **克隆项目**
 
 ```bash
-git clone https://github.com/yourusername/word-memory-master.git
+git clone https://github.com/Junn0710/personal_attempt.git
 cd word-memory-master
 ```
 
@@ -290,16 +290,6 @@ BACKGROUND = (252, 245, 235)  # 背景色
 PRIMARY = (143, 188, 143)     # 主色调
 ACCENT = (255, 193, 158)      # 强调色
 ```
-
-## 🤝 贡献指南
-
-欢迎贡献代码！以下是参与方式：
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
 
 ## 📝 更新日志
 
