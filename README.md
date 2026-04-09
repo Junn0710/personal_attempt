@@ -98,7 +98,7 @@ English | 中文
 
 ```bash
 git clone https://github.com/Junn0710/personal_attempt.git
-cd word-memory-master
+cd personal_attempt
 ```
 
 2. **安装依赖**
