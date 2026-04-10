@@ -312,11 +312,3 @@ ACCENT = (255, 193, 158)      # 强调色
 如果这个项目对你有帮助，欢迎 star ⭐️
 
 ---
-
-<div align="center">
-
-**让记忆单词成为一种享受，而不是负担！**
-
-Made with ❤️ by Word Memory Master Team
-
-</div>
